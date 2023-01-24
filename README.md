@@ -4,4 +4,4 @@ flutter sample about Popup style
 
 ## Getting Started
 
-asstes/images/cupertino_sample_demo-_1_.gif
+![cupertino_sample_demo-_1_](./asstes/images/cupertino_sample_demo-_1_.gif)
