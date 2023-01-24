@@ -4,4 +4,4 @@ flutter sample about Popup style
 
 ## Getting Started
 
-<img width="80%" src="{https://user-images.githubusercontent.com/42435620/214327776-82b5bb93-ed28-4f7d-9d17-0779d5c8afb4.mov}"/>
+<img width="80%" src="{![cupertino_sample_demo-_1_](https://user-images.githubusercontent.com/42435620/214329211-20cd199c-86bd-4e30-bcd8-1a8d9bb51853.gif)}"/>
